@@ -47,7 +47,7 @@ body{
 }
 
 .container button{
-    background-color: #512da8;
+    background-color:#9333ea;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -133,7 +133,7 @@ body{
 }
 
 .social-icons a{
-    border: 1px solid #ccc;
+    border: 1px solid #9333ea;
     border-radius: 20%;
     display: inline-flex;
     justify-content: center;
@@ -161,9 +161,9 @@ body{
 }
 
 .toggle{
-    background-color: #512da8;
+    background-color: #9333ea;
     height: 100%;
-    background: linear-gradient(to right, #5c6bc0, #512da8);
+    background: linear-gradient(to right, #9333ea, #9333ea);
     color: #fff;
     position: relative;
     left: -100%;
